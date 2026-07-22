@@ -81,7 +81,7 @@ Grounded Answer + Citations
 
 ### Password Reset
 
-![Password Reset](Chatbot%20Password%20Resect.png)
+![Password Reset](Chatbot%20Password%20Reset.png)
 
 ---
 
