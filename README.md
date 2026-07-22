@@ -37,7 +37,7 @@ This project demonstrates how a RAG-based chatbot can retrieve information from 
 ---
 # Architecture Diagram
 
-A simple flow:
+System Architecture
 
 <img width="227" height="660" alt="image" src="https://github.com/user-attachments/assets/9b97a947-a202-4075-837f-c0784333b776" />
 
