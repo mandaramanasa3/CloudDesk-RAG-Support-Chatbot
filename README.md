@@ -35,6 +35,19 @@ This project demonstrates how a RAG-based chatbot can retrieve information from 
 | Docker | Local Deployment |
 
 ---
+# Architecture Diagram
+
+A simple flow:
+
+User
+   ↓
+Dify Workflow
+   ↓
+Knowledge Retrieval
+   ↓
+Ollama (Llama 3.2)
+   ↓
+Grounded Response
 
 #  Workflow
 
