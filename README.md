@@ -1,10 +1,10 @@
-# 🤖 CloudDesk CRM Support Chatbot
+# CloudDesk CRM Support Chatbot
 
 An Enterprise **Retrieval-Augmented Generation (RAG)** AI Support Chatbot built using **Dify**, **Ollama**, and **Llama 3.2**. The chatbot answers customer support questions using only CloudDesk CRM documentation, providing grounded responses with citations while preventing hallucinations.
 
 ---
 
-# 📌 Problem Statement
+# Problem Statement
 
 Customer support teams spend significant time answering repetitive questions related to product features, pricing, refunds, security, troubleshooting, and account management.
 
@@ -12,19 +12,19 @@ This project demonstrates how a RAG-based chatbot can retrieve information from 
 
 ---
 
-# 🚀 Features
+# Features
 
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 📚 Knowledge Base Search
-- 🤖 Local LLM using Ollama
-- ⚙️ Built using Dify Workflow
-- 📄 Citation-based Responses
-- 🛡️ Hallucination Prevention
-- ❌ Out-of-Scope Question Handling
+-  Retrieval-Augmented Generation (RAG)
+-  Knowledge Base Search
+-  Local LLM using Ollama
+-  Built using Dify Workflow
+-  Citation-based Responses
+-  Hallucination Prevention
+-  Out-of-Scope Question Handling
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
@@ -36,7 +36,7 @@ This project demonstrates how a RAG-based chatbot can retrieve information from 
 
 ---
 
-# 🔄 Workflow
+#  Workflow
 
 ```
 User Question
@@ -53,7 +53,7 @@ Grounded Answer + Citations
 
 ---
 
-# 📷 Project Screenshots
+#  Project Screenshots
 
 ### Workflow
 
@@ -85,7 +85,7 @@ Grounded Answer + Citations
 
 ---
 
-# 💬 Example Questions
+#  Example Questions
 
 - What is the refund policy?
 - How do I reset my password?
@@ -95,7 +95,7 @@ Grounded Answer + Citations
 
 ---
 
-# 🎯 Learning Outcomes
+#  Learning Outcomes
 
 - Built an Enterprise RAG Chatbot
 - Worked with Dify AI Workflows
@@ -106,7 +106,7 @@ Grounded Answer + Citations
 
 ---
 
-# 🔮 Future Improvements
+#  Future Improvements
 
 - Voice-based support
 - Multi-language support
@@ -116,7 +116,7 @@ Grounded Answer + Citations
 
 ---
 
-# 👩‍💻 Author
+#  Author
 
 **Mandara Manasa**
 
